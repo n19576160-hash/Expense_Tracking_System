@@ -1,0 +1,17 @@
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/bin/Debug/net10.0/ExpenseTracking.Data.deps.json
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/bin/Debug/net10.0/ExpenseTracking.Data.runtimeconfig.json
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/bin/Debug/net10.0/ExpenseTracking.Data.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/bin/Debug/net10.0/ExpenseTracking.Data.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/bin/Debug/net10.0/ExpenseTracking.Domain.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/bin/Debug/net10.0/ExpenseTracking.Domain.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.csproj.AssemblyReference.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.AssemblyInfoInputs.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.AssemblyInfo.cs
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.csproj.CoreCompileInputs.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseT.D25E4D72.Up2Date
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/refint/ExpenseTracking.Data.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ExpenseTracking.Data.genruntimeconfig.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Data/obj/Debug/net10.0/ref/ExpenseTracking.Data.dll
