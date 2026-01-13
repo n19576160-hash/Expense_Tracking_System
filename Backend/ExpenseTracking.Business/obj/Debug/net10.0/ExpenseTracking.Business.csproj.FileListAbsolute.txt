@@ -1,0 +1,17 @@
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.csproj.AssemblyReference.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.AssemblyInfoInputs.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.AssemblyInfo.cs
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.csproj.CoreCompileInputs.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Business.deps.json
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Business.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Business.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Data.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Domain.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Domain.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/bin/Debug/net10.0/ExpenseTracking.Data.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseT.AFF994F9.Up2Date
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/refint/ExpenseTracking.Business.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ExpenseTracking.Business.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Business/obj/Debug/net10.0/ref/ExpenseTracking.Business.dll
