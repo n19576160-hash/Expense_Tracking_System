@@ -1,0 +1,11 @@
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/bin/Debug/net10.0/ExpenseTracking.Domain.deps.json
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/bin/Debug/net10.0/ExpenseTracking.Domain.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/bin/Debug/net10.0/ExpenseTracking.Domain.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ExpenseTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ExpenseTracking.Domain.AssemblyInfoInputs.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ExpenseTracking.Domain.AssemblyInfo.cs
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ExpenseTracking.Domain.csproj.CoreCompileInputs.cache
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ExpenseTracking.Domain.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/refint/ExpenseTracking.Domain.dll
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ExpenseTracking.Domain.pdb
+/home/sanzeda/Videos/vsCODE/ExpenseTrackingSystem/Backend/ExpenseTracking.Domain/obj/Debug/net10.0/ref/ExpenseTracking.Domain.dll
