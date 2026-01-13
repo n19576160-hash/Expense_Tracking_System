@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExpenseTracking.API/ExpenseTracking.API.csproj" />
+  <Project Path="ExpenseTracking.Business/ExpenseTracking.Business.csproj" />
+  <Project Path="ExpenseTracking.Data/ExpenseTracking.Data.csproj" />
+  <Project Path="ExpenseTracking.Domain/ExpenseTracking.Domain.csproj" />
+</Solution>
